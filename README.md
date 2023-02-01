@@ -1,4 +1,4 @@
-# SnakeGmae
+# SnakeGame
 Snake Game Application
 
 ##  Game Interface:![Screenshot (94)](https://user-images.githubusercontent.com/55184719/215909220-00350fcc-7c05-42b2-93df-fefa393e1e5a.png)
